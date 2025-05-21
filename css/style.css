@@ -171,3 +171,7 @@ ul#task-list .empty-image {
 .task-buttons .delete-btn {
   background: #ff6f91;
 }
+.task-buttons .delete-btn:hover {
+  background: #ff6f91;
+  transform: scale(1.2);
+}
